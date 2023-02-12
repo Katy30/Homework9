@@ -1,0 +1,2296 @@
+@media (max-width: 1200px) {
+    .logo {
+        font-size: 2.1rem;
+    }
+
+    .main_text {
+        font-size: 1.5rem;
+    }
+
+    .signature {
+        font-size: 1.5rem;
+        margin-left: 78%;
+    }
+
+    .title {
+        margin-top: -27px;
+    }
+
+    .read_more {
+        margin-left: 88.5%;
+    }
+
+    .collection_item_wrapper h4 {
+        margin-top: 240px;
+    }
+
+    .collection_wrapper {
+        column-gap: 3.4rem;
+    }
+
+    .link_view_more {
+        margin-left: -15%;
+    }
+
+    .vintage-wrapper-content-text {
+        margin-bottom: 15px;
+    }
+
+    .link_what_we_do {
+        margin-left: 68%;
+    }
+
+    .vintage-wrapper-img img {
+        width: 145%;
+    }
+
+    .line-decoration-diversity-bottom {
+        top: 77%;
+    }
+
+    .link_work_with_us {
+        margin-left: -23%;
+    }
+
+    .london_office_text, .dubai_office_text, .paris_office_text, .newyork_office_text {
+        font-size: 1.2rem;
+    }
+
+    .another_contact_title {
+        font-size: 1.8rem;
+    }
+
+    .london_office_title, .dubai_office_title, .paris_office_title, .newyork_office_title, .form_title {
+        font-size: 1.3rem;
+        margin-bottom: 30px;
+        margin-top: 5px;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(13rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+        gap: 1rem;
+    }
+
+    .mail_to_us {
+        font-size: 1rem;
+    }
+
+    .mail-to-us-button {
+        font-size: 2rem;
+        padding: 12px 50px 18px 50px;
+        margin-top: 35px;
+        margin-left: 84%;
+        margin-bottom: 80px;
+    }
+
+    .footer_content_text {
+        font-size: 0.8rem;
+    }
+
+    .footer_content_link {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 1024px) {
+    .logo {
+        font-size: 1.9rem;
+    }
+
+    .main_text {
+        font-size: 1.4rem;
+        margin-left: 5%;
+    }
+
+    .signature {
+        font-size: 1.4rem;
+        margin-left: 78%;
+    }
+
+    .read_more {
+        margin-left: 86.5%;
+    }
+
+    .collection_wrapper {
+        column-gap: 0.8rem;
+    }
+
+    .link_view_more {
+        margin-left: -27%;
+    }
+
+    .link_what_we_do {
+        margin-left: 60%;
+    }
+
+    .work_with_us {
+        margin-top: 35px;
+        margin-left: 87%;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(11rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+        gap: 1rem;
+    }
+
+    .another_contact_title {
+        font-size: 1.5rem;
+    }
+
+    .london_office_title, .dubai_office_title, .paris_office_title, .newyork_office_title, .form_title {
+        font-size: 1.1rem;
+    }
+
+    .london_office_text, .dubai_office_text, .paris_office_text, .newyork_office_text {
+        font-size: 1.1rem;
+    }
+
+    .mail-to-us-button {
+        margin-left: 81%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .logo {
+        font-size: 1.7rem;
+        margin: 43px 0 310px 0;
+        margin-left: 7.4%;
+    }
+
+    .links {
+        column-gap: 18px;
+    }
+
+    .item {
+        font-size: 1rem;
+    }
+
+    .basket {
+        font-size: 1.1rem;
+    }
+
+    .title {
+        font-size: 4rem;
+    }
+
+    .signature {
+        font-size: 1.3rem;
+        margin-left: 79%;
+    }
+
+    .main_text {
+        font-size: 1.3rem;
+        margin-left: 7.5%;
+    }
+
+    .story_title {
+        font-size: 2.1rem;
+    }
+
+    .read_more {
+        margin-left: 86.5%;
+    }
+
+    .collection_title {
+        font-size: 2.1rem;
+    }
+
+    .collection_wrapper {
+        column-gap: 2rem;
+    }
+
+    .collection_item_wrapper h4 {
+        margin-top: 200px;
+    }
+
+    .link_view_more {
+        margin-left: -29%;
+    }
+
+    .vintage-wrapper-content-title {
+        font-size: 2.1rem;
+    }
+
+    .vintage_title {
+        font-size: 2.1rem;
+    }
+
+    .link_what_we_do {
+        margin-left: 60%;
+    }
+
+    .vintage-wrapper-img img {
+        width: 150%;
+        padding-top: 35px;
+    }
+
+    .vintage-wrapper-content {
+        padding-right: 4.4rem;
+        padding-top: 4rem;
+    }
+
+    .diversity_title {
+        font-size: 2.1rem;
+    }
+
+    .link_work_with_us {
+        margin-left: -51%;
+    }
+
+    .achivements_title {
+        font-size: 2.1rem;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(11rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+        gap: 1rem;
+    }
+
+    .another_contact_title {
+        font-size: 1.5rem;
+    }
+
+    .london_office_title, .dubai_office_title, .paris_office_title, .newyork_office_title, .form_title {
+        font-size: 1.2rem;
+    }
+
+    .contact_title {
+        font-size: 2.1rem;
+    }
+
+    .mail-to-us-button {
+        font-size: 1.7rem;
+        padding: 12px 40px 18px 40px;
+        margin-top: 35px;
+        margin-left: 87%;
+        margin-bottom: 80px;
+    }
+
+    .diversity_grid {
+        display: grid;
+        grid-template-columns: repeat(81, minmax(0.6rem, 1rem));
+        grid-template-rows:none;
+    }
+
+    .line-decoration-diversity-top {
+        top: 30%;
+    }
+
+    .line-decoration-diversity-bottom {
+        top: 75%;
+    }
+
+    .achivements_grid img {
+        width: 110%;
+        height: 100%;
+    }
+
+    .achivements_grid .awards {
+        padding-left: 4rem;
+    }
+
+    .achivements_grid .awards {
+        padding-left: 4rem;
+    }
+}
+
+@media (max-width: 951px) {
+    .main_text {
+        font-size: 1rem;
+    }
+
+    .title {
+        font-size: 3.5rem;
+    }
+
+    .signature {
+        font-size: 1rem;
+    }
+
+    .head_container {
+        display: flex;
+        margin-top: 90px;
+    }
+
+    .story {
+        padding-top: 110px;
+        padding-bottom: 120px;
+    }
+
+    .story_title {
+        font-size: 2rem;
+    }
+
+    .link_read_more {
+        margin-left: -6%;
+    }
+
+    .collection {
+        padding-top: 4.7rem;
+    }
+
+    .line-decoration-collection-bottom {
+        top: 70%;
+    }
+
+    .collection_item_wrapper h4 {
+        margin-top: 180px;
+    }
+
+    .collection-wrapper-item-content {
+        font-size: 0.9rem;
+        line-height: 1rem;
+        margin-left: 20px;
+        margin-right: 35px;
+    }
+
+    .collection_wrapper {
+        column-gap: 1rem;
+    }
+
+    .link_view_more {
+        margin-left: -33%;
+    }
+
+    .link_what_we_do {
+        margin-left: 57%;
+    }
+
+    .vintage-container {
+        padding-top: 6rem;
+    }
+
+    .vintage-wrapper-content {
+        padding-top: 3rem;
+    }
+
+    .diversity_grid {
+        display: grid;
+        grid-template-columns: repeat(81, minmax(0.4rem, 1rem));
+    }
+
+    .link_work_with_us {
+        margin-left: -59%;
+    }
+
+    .diversity_title {
+        font-size: 2rem;
+    }
+
+    .line-decoration-diversity-bottom {
+        top: 73%;
+    }
+
+    .achivements_title {
+        font-size: 2rem;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(10rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+    }
+
+    .contact_title {
+        font-size: 2rem;
+    }
+
+    .another_contact_title {
+        font-size: 1.4rem;
+    }
+
+    .london_office_title, .dubai_office_title, .paris_office_title, .newyork_office_title, .form_title {
+        font-size: 1.1rem;
+        margin-bottom: 25px;
+    }
+
+    .mail_to_us {
+        font-size: 0.8rem;
+    }
+
+    .london_office_text, .dubai_office_text, .paris_office_text, .newyork_office_text {
+        font-size: 1rem;
+    }
+
+    .mail-to-us-button {
+        font-size: 1.5rem;
+        padding: 10px 35px 15px 35px;
+        margin-top: 35px;
+        margin-left: 84%;
+        margin-bottom: 80px;
+    }
+
+    .footer_content_text {
+        font-size: 0.7rem;
+    }
+
+    .footer_content_link {
+        font-size: 0.7rem;
+    }
+}
+
+@media (max-width: 850px) {
+    .title {
+        font-size: 3.3rem;
+        margin-top: -22px;
+    }
+
+    .main_text {
+        font-size: 1.2rem;
+    }
+
+    .signature {
+        font-size: 1.2rem;
+        margin-left: 75%;
+    }
+
+    .logo {
+        font-size: 1.6rem;
+    }
+
+    .item {
+        font-size: 1rem;
+    }
+
+    .story_title {
+        font-size: 1.9rem;
+    }
+
+    .story_title {
+        margin-bottom: 60px;
+    }
+
+    .distinct_text, .passionate_text, .world_text {
+        font-size: 0.9rem;
+    }
+
+    .link_read_more {
+        margin-left: 0;
+        font-size: 1.1rem;
+    }
+
+    .collection_title {
+        font-size: 1.9rem;
+    }
+
+    .collection {
+        padding-top: 4rem;
+    }
+
+    .link_view_more {
+        font-size: 1.1rem;
+    }
+
+    .collection_item_wrapper h4 {
+        font-size: 1.2rem;
+        margin-top: 230px;
+        text-decoration: underline #FFE600 3px;
+    }
+
+    .collection_wrapper {
+        padding-left: 6%;
+        padding-right: 6%;
+    }
+
+    .link_what_we_do {
+        font-size: 1.1rem;
+        margin-left: 57%;
+    }
+
+    .vintage-wrapper-img img {
+        width: 170%;
+    }
+
+    .vintage-wrapper {
+        margin-top: 5.5rem;
+    }
+
+    .link_work_with_us {
+        font-size: 1.1rem;
+    }
+
+    .diversity_title {
+        font-size: 1.9rem;
+    }
+
+    .achivements_title {
+        font-size: 1.9rem;
+        margin-bottom: 120px;
+    }
+
+    .achivements_grid {
+        display: grid;
+        grid-template-columns: repeat(13, minmax(0.27rem, 7.61rem));
+        grid-template-rows: none;
+    }
+
+    .achivements {
+        max-height: 1039px;
+        padding-left: 7.3%;
+        padding-right: 10.3%;
+        padding-top: 120px
+    }
+
+    .mail-to-us-button {
+        margin-left: 86%;
+    }
+}
+
+@media (max-width: 822px) {
+    .title-wrap {
+        margin-left: 9.3%;
+    }
+
+    .main_text {
+        font-size: 1.7rem;
+    }
+
+    .item {
+        font-size: 1.8rem;
+    }
+
+    .links {
+        column-gap: 18px;
+        margin-top: 95px;
+    }
+
+    .menu {
+        width: 50%;
+    }
+
+    .basket {
+        font-size: 1.6rem;
+    }
+
+    .logo {
+        width: 30%;
+        font-size: 1.9rem
+    }
+
+    .tour {
+        justify-content: center;
+        width: 30%;
+        margin-top: 50px;
+        margin-right: 7.4%;
+    }
+
+    .distinct_title, .passionate_title, .world_title {
+        font-size: 1.6rem;
+    }
+
+    .distinct_text, .passionate_text, .world_text {
+        font-size: 1.2rem;
+    }
+
+    .vintage-wrapper-content-text {
+        font-size: 1.3rem;
+    }
+
+    .main_text {
+        font-size: 1.5rem;
+    }
+
+    .signature {
+        margin-left: 68%;
+    }
+
+    .link_read_more {
+        margin-left: -3px;
+    }
+
+    .collection-wrapper-item-content {
+        font-size: 0.8rem;
+    }
+
+    .link_view_more {
+        margin-left: -26%;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(9rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+    }
+
+    .another_contact_title {
+        font-size: 1.2rem;
+    }
+
+    .link_what_we_do {
+        font-size: 1.1rem;
+        margin-left: 54%;
+    }
+
+    .item {
+        font-size: 1.5rem;
+    }
+
+    .logo {
+        font-size: 1.7rem;
+        margin: 50px 0 310px 0;
+    }
+}
+
+@media (max-width: 800px) {
+    .logo {
+        font-size: 1.5rem;
+    }
+
+    .item {
+        font-size: 0.9rem;
+    }
+
+    .title {
+        font-size: 3.2rem;
+        margin-top: -24px;
+    }
+
+    .main_text {
+        font-size: 1.1rem;
+    }
+
+    .signature {
+        font-size: 1.1rem;
+        margin-left: 76%;
+    }
+
+    .link_read_more {
+        margin-left: -5px;
+    }
+
+    .collection_item_wrapper h4 {
+        margin-bottom: 25px;
+    }
+
+    .link_view_more {
+        margin-left: -25%;
+    }
+
+    .line-decoration-collection-top {
+        top: 25%;
+    }
+
+    .vintage-container {
+        padding-top: 4rem;
+    }
+
+    .vintage-wrapper-img img {
+        width: 185%;
+    }
+
+    .vintage-wrapper-content {
+        width: 43%;
+        padding-right: 2.4rem;
+        padding-left: 1rem;
+    }
+
+    .vintage-wrapper-img {
+        width: 36%;
+        padding-left: 4rem;
+    }
+
+    .link_what_we_do {
+        margin-left: 54%;
+    }
+
+    .line-decoration-diversity-bottom {
+        top: 72%;
+    }
+
+    .link_work_with_us {
+        margin-left: -56%;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(8rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    .another_contact_title {
+        font-size: 1.1rem;
+    }
+
+    .london_office_title, .dubai_office_title, .paris_office_title, .newyork_office_title, .form_title {
+        font-size: 0.9rem;
+    }
+
+    .mail_to_us {
+        font-size: 0.9rem;
+    }
+
+    .mail-to-us-button {
+        margin-left: 83%;
+    }
+}
+
+@media (max-width: 769px) {
+    .logo {
+        margin-left: 5.4%;
+    }
+
+    .main_text {
+        font-size: 1.5rem;
+    }
+
+    .signature {
+        font-size: 1.2rem;
+        margin-left: 68%;
+    }
+
+    .collection-wrapper-item-content {
+        font-size: 0.8rem;
+    }
+
+    .link_what_we_do {
+        margin-left: 49%;
+    }
+}
+
+@media (max-width: 750px) {
+    .logo {
+        font-size: 1.6rem;
+        margin: 43px 0 250px 0;
+        margin-left: 6.4%;
+        width: 21%;
+    }
+
+    .tour {
+        width: 20%;
+    }
+
+    .menu {
+        width: 80%;
+    }
+
+    .links {
+        column-gap: 18px;
+        margin-top: 3rem;
+    }
+
+    .title {
+        font-size: 3rem;
+        margin-top: -15px;
+    }
+
+    .title-wrap {
+        margin-left: 15.3%;
+    }
+
+    .signature {
+        font-size: 1rem;
+        margin-left: 74%;
+    }
+
+    .main_text {
+        font-size: 1.2rem;
+    }
+
+    .link_read_more {
+        margin-left: -12px;
+    }
+
+    .link_view_more {
+        margin-left: -11%;
+    }
+
+    .collection_wrapper {
+        padding-left: 3%;
+        padding-right: 3%;
+        column-gap: 0.6rem;
+    }
+
+    .link_work_with_us {
+        margin-left: -71%;
+    }
+
+    .line-decoration-diversity-top {
+        top: 33%;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(7rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+        gap: 1rem;
+    }
+
+    .london_office_text, .dubai_office_text, .paris_office_text, .newyork_office_text {
+        font-size: 0.9rem;
+    }
+
+    .mail_to_us {
+        font-size: 0.8rem;
+    }
+
+    .another_contact_title {
+        font-size: 1rem;
+    }
+
+    .mail-to-us-button {
+        margin-left: 81%;
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 700px) {
+    .logo {
+        font-size: 1.5rem;
+    }
+
+    .title-wrap {
+        margin-left: 13.3%;
+    }
+
+    .title {
+        font-size: 2.8rem;
+    }
+
+    .signature {
+        font-size: 1rem;
+        margin-left: 71%;
+    }
+
+    .story_title {
+        font-size: 1.7rem;
+    }
+
+    .story_grid img {
+        width: 115%;
+    }
+
+    .story_title {
+        font-size: 1.7rem;
+    }
+
+    .link_read_more {
+        margin-left: -15px;
+    }
+
+    .vintage-wrapper-img img {
+        width: 170%;
+    }
+
+    .vintage_title {
+        font-size: 1.9rem;
+    }
+
+    .vintage-wrapper-content {
+        width: 48%;
+        padding-right: 2.4rem;
+        padding-left: 1rem;
+    }
+
+    .vintage-wrapper-img {
+        width: 35%;
+        padding-left: 4rem;
+    }
+
+    .link_work_with_us {
+        margin-left: -81%;
+    }
+
+    .line-decoration-diversity-bottom {
+        top: 70%;
+    }
+
+    .vintage-container {
+        padding-bottom: 8.27rem;
+    }
+
+    .diversity {
+        padding-top: 0.7rem;
+        padding-bottom: 4.2rem;
+    }
+
+    .achivements {
+        min-height: 900px;
+    }
+
+    .achivements_grid img {
+        width: 130%;
+        height: 100%;
+    }
+
+    .story_grid {
+        column-gap: 2.7rem;
+    }
+
+    .achivements_grid .awards {
+        padding-left: 4rem;
+    }
+
+    .achivements_grid .menna {
+        margin-left: 1rem;
+    }
+
+    .footer_content_text {
+        font-size: 0.6rem;
+    }
+
+    .footer_content_link {
+        font-size: 0.6rem;
+    }
+
+    .mail-to-us-button {
+        margin-left: 83%;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(7rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    .mail_to_us {
+        font-size: 1rem;
+    }
+
+    .collection_wrapper {
+        display: inline-block;
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+
+    .collection_item_wrapper:nth-child(1) {
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/london.png) no-repeat;
+        background-size: 100% 100%;
+        height: 500px;
+        margin-top: -200px;
+    }
+
+    .collection_item_wrapper:nth-child(2) {
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/dubai.png) no-repeat;
+        background-size: 100% 100%;
+        height: 500px;
+        margin-top: -150px;
+    }
+
+    .collection_item_wrapper:nth-child(3) {
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/paries.png) no-repeat;
+        background-size: 100% 100%;
+        height: 500px;
+        margin-top: -150px;
+    }
+
+    .collection_item_wrapper:nth-child(4) {
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/newyork.png) no-repeat;
+        background-size: 100% 100%;
+        height: 500px;
+        margin-top: -150px;
+    }
+
+    .collection {
+        position: relative;
+        padding-top: 6.7rem;
+        padding-bottom: 7.2rem;
+        min-height: 2600px;
+        width: 100%;
+    }
+
+    .view_more {
+        margin-top: 100px;
+        margin-left: 80.5%;
+    }
+
+    .collection-wrapper-item-content {
+        margin-top: 25px;
+    }
+
+    .text-underline-decoration {
+        padding-top: 320px;
+    }
+
+    .collection_title {
+        margin-bottom: 30px;
+    }
+
+    .line-decoration-diversity-top {
+        top: 25%;
+    }
+
+    .line-decoration-collection-top {
+        top: 17%;
+    }
+
+    .line-decoration-collection-bottom {
+        top: 83%;
+    }
+}
+
+@media (max-width: 650px) {
+    .logo {
+        font-size: 1.2rem;
+    }
+
+    .basket {
+        font-size: 0.9rem;
+    }
+
+    .tour {
+        margin-right: 5.4%;
+    }
+
+    .main_text {
+        font-size: 1.1rem;
+    }
+
+    .title {
+        font-size: 2.7rem;
+    }
+
+    .signature {
+        font-size: 1rem;
+        margin-left: 70%;
+    }
+
+    .link_read_more {
+        margin-left: -21px;
+    }
+
+    .link_work_with_us {
+        margin-left: -94%;
+    }
+
+    .diversity_grid {
+        display: grid;
+        grid-template-columns: repeat(81, minmax(0.3rem, 2rem));
+    }
+
+    .diversity_title {
+        margin-top: 20px;
+    }
+
+    .achivements_grid img {
+        width: 140%;
+    }
+
+    .another_contact_title {
+        font-size: 1.5rem;
+    }
+
+    .london_office_title, .dubai_office_title, .paris_office_title, .newyork_office_title, .form_title {
+        font-size: 0.8rem;
+        margin-bottom: 15px;
+    }
+
+    .london_office_text, .dubai_office_text, .paris_office_text, .newyork_office_text {
+        font-size: 0.8rem;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(6rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+        gap: 1.3rem;
+    }
+
+    .mail_to_us {
+        font-size: 0.9rem;
+    }
+
+    .mail-to-us-button {
+        margin-left: 79%;
+        font-size: 1.1rem;
+    }
+
+    .footer_content_text {
+        font-size: 0.65rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .logo {
+        font-size: 1.2rem;
+        margin: 46px 0 250px 0;
+        margin-left: 6.4%;
+        width: 30%;
+    }
+
+    .basket {
+        font-size: 1rem;
+    }
+
+    .tour {
+        margin-right: 3.4%;
+        width: 30%;
+    }
+
+    .links {
+        column-gap: 15px;
+        margin-top: 3rem;
+    }
+
+    .menu {
+        width: 50%;
+    }
+
+    .title {
+        font-size: 2.6rem;
+    }
+
+    .story_title {
+        font-size: 1.6rem;
+    }
+
+    .read_more {
+        margin-left: 84.5%;
+    }
+
+    .story_grid img {
+        width: 125%;
+    }
+
+    .collection_title {
+        font-size: 1.6rem;
+    }
+
+    .link_what_we_do {
+        margin-left: 50%;
+    }
+
+    .vintage-wrapper {
+        margin-top: 3.5rem;
+        display: inline-block;
+    }
+
+    .vintage-wrapper-img {
+        width: 38%;
+        padding-left: 3rem;
+    }
+
+    .vintage-wrapper-img img {
+        width: 180%;
+        padding-top: 0
+    }
+
+    .vintage-wrapper-content {
+        width: 94%;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        padding-left: 198px;
+    }
+
+    .diversity_title {
+        font-size: 1.6rem;
+    }
+
+    .line-decoration-diversity-bottom {
+        top: 75%;
+    }
+
+    .line-decoration-diversity-top {
+        top: 15%;
+    }
+
+    .link_work_with_us {
+        margin-left: -112%;
+    }
+
+    .achivements {
+        padding-top: 85px;
+    }
+
+    .achivements_title {
+        font-size: 1.6rem;
+        margin-bottom: 80px;
+    }
+
+    .achivements {
+        min-height: 700px;
+    }
+
+    .mail-to-us-button {
+        margin-left: 81%;
+        font-size: 1.1rem;
+    }
+
+    .another_contact_title {
+        font-size: 1.1rem;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(8rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+        gap: 1rem;
+    }
+
+    .contact_grid .title_grid {
+        display: inline-block;
+        margin-top: -60px;
+    }
+
+    .contact_grid .london_office {
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+
+    .contact_grid .dubai_office {
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+
+    .contact_grid .paris_office {
+        grid-column-start: 3;
+        grid-column-end: 4;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+
+    .contact_grid .newyork_office {
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 2;
+        grid-row-end: 3;
+    }
+
+    .contact_grid .form {
+        grid-column-start: 2;
+        grid-column-end: 4;
+        grid-row-start: 2;
+        grid-row-end: 3;
+    }
+
+    .london_office_title, .dubai_office_title, .paris_office_title, .newyork_office_title, .form_title {
+        font-size: 1rem;
+        margin-bottom: 20px;
+    }
+
+    .london_office_text, .dubai_office_text, .paris_office_text, .newyork_office_text {
+        font-size: 0.95rem;
+    }
+
+    .mail_to_us {
+        font-size: 0.8rem;
+    }
+
+    .mail-to-us-button {
+        margin-left: 81%;
+    }
+
+    .footer-line {
+        margin-top: 0.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .footer_content_text {
+        font-size: 0.7rem;
+    }
+
+    .footer_content_link {
+        font-size: 0.7rem;
+    }
+
+    .footer_content_text {
+        font-size: 0.7rem;
+    }
+}
+
+@media (max-width: 550px) {
+    .main_text {
+        font-size: 1rem;
+    }
+
+    .title-wrap {
+        margin-left: 7.3%;
+    }
+
+    .signature {
+        font-size: 1rem;
+        margin-left: 66%;
+    }
+
+    .story_title {
+        font-size: 1.5rem;
+        margin-bottom: 50px;
+        margin-left: 20px;
+    }
+
+    .distinct_text, .passionate_text, .world_text {
+        font-size: 0.8rem;
+        margin-bottom: 15px;
+    }
+
+    .story_grid img {
+        width: 130%;
+    }
+
+    .story {
+        padding-left: 2.3%;
+        padding-right: 8.3%;
+    }
+
+    .collection {
+        position: relative;
+        padding-top: 3.7rem;
+    }
+
+    .link_view_more {
+        margin-left: -30%;
+    }
+
+    .link_work_with_us {
+        margin-left: -138%;
+    }
+
+    .achivements_grid {
+        display: grid;
+        grid-template-columns: repeat(20, minmax(1.3rem, 2rem));
+        grid-template-rows: repeat(23, minmax(1.3rem, 2rem) );
+    }
+
+    .achivements_grid img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .achivements_grid .glass {
+        padding: 0;
+        grid-column-start: 1;
+        grid-column-end: 8;
+        grid-row-start: 1;
+        grid-row-end: 8;
+    }
+
+    .achivements_grid .menna {
+        padding: 0;
+        margin: 0;
+        grid-column-start: 9;
+        grid-column-end: 21;
+        grid-row-start: 1;
+        grid-row-end: 9;
+    }
+
+    .achivements_grid .awards {
+        padding: 0;
+        grid-column-start: 1;
+        grid-column-end: 8;
+        grid-row-start: 15;
+        grid-row-end: 22;
+    }
+
+    .achivements_grid .time {
+        padding: 0;
+        grid-column-start: 9;
+        grid-column-end: 21;
+        grid-row-start: 9;
+        grid-row-end: 21;
+    }
+
+    .achivements_grid .rosso {
+        grid-column-start: 1;
+        grid-column-end: 8;
+        grid-row-start: 9;
+        grid-row-end: 16;
+    }
+
+    .line-decoration-diversity-bottom {
+        top: 78%;
+    }
+
+    .line-decoration-diversity-top {
+        top: 18%;
+    }
+}
+
+@media (max-width: 500px) {
+    .tour {
+        margin-right: 6.4%;
+        width: 30%;
+    }
+
+    .item {
+        font-size: 0.8rem;
+    }
+
+    .title {
+        font-size: 2.5rem;
+    }
+
+    .story {
+        padding-top: 70px;
+        padding-bottom: 110px;
+    }
+
+    .distinct_title, .passionate_title, .world_title {
+        font-size: 1rem;
+    }
+
+    .distinct_text, .passionate_text, .world_text {
+        font-size: 0.7rem;
+        margin-bottom: 10px;
+    }
+
+    .link_read_more {
+        margin-left: -27px;
+        font-size: 1rem;
+    }
+
+    .link_view_more {
+        font-size: 1rem;
+    }
+
+    .link_what_we_do {
+        font-size: 1rem;
+    }
+
+    .vintage-wrapper-content {
+        padding-left: 185px;
+    }
+
+    .line-decoration-diversity-bottom {
+        top: 78%;
+    }
+
+    .link_work_with_us {
+        margin-left: -154%;
+        font-size: 1rem;
+    }
+
+    .achivements_grid {
+        display: grid;
+        grid-template-columns: repeat(20, minmax(1.2rem, 2rem));
+        grid-template-rows: repeat(23, minmax(1.2rem, 2rem) );
+    }
+
+    .achivements_grid img {
+        width: 95%;
+        height: 75%;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(7rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+        gap: 1rem;
+    }
+
+    .london_office_title, .dubai_office_title, .paris_office_title, .newyork_office_title, .form_title {
+        font-size: 0.8rem;
+        margin-bottom: 20px;
+    }
+
+    .london_office_text, .dubai_office_text, .paris_office_text, .newyork_office_text {
+        font-size: 0.8rem;
+    }
+
+    .another_contact_title {
+        font-size: 1rem;
+    }
+
+    .mail_to_us {
+        font-size: 0.7rem;
+    }
+
+    .mail-to-us-button {
+        margin-left: 77%;
+    }
+
+    .footer_content_text {
+        font-size: 0.6rem;
+    }
+
+    .footer_content_link {
+        font-size: 0.6rem;
+    }
+}
+
+@media (max-width: 450px) {
+    .basket {
+        font-size: 0.9rem;
+    }
+
+    .main_text {
+        font-size: 0.9rem;
+    }
+
+    .title {
+        font-size: 2.4rem;
+    }
+
+    .title-wrap {
+        margin-left: 6.3%;
+    }
+
+    .signature {
+        font-size: 0.9rem;
+    }
+
+    .story {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+
+    .link_read_more {
+        margin-left: -25px;
+    }
+
+    .collection_item_wrapper h4 {
+        font-size: 1.1rem;
+    }
+
+    .link_view_more {
+        margin-left: -50%;
+    }
+
+    .vintage-wrapper-content {
+        padding-left: 100px;
+        width: 90%;
+    }
+
+    .vintage-wrapper-img img {
+        width: 200%;
+    }
+
+    .vintage-wrapper-img {
+        width: 38%;
+        padding-left: 2rem;
+        padding-bottom: 25px;
+    }
+
+    .link_what_we_do {
+        margin-left: 67%;
+    }
+
+    .diversity_title {
+        font-size: 1.4rem;
+    }
+
+    .line-decoration-diversity-top {
+        top: 17%;
+    }
+
+    .link_work_with_us {
+        margin-left: -157%;
+        font-size: 1rem;
+    }
+
+    .achivements_grid img {
+        width: 85%;
+        height: 76%;
+    }
+
+    .contact_title {
+        margin-bottom: 45px;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(6rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    .london_office_title, .dubai_office_title, .paris_office_title, .newyork_office_title, .form_title {
+        font-size: 0.7rem;
+        margin-bottom: 17px;
+    }
+
+    .another_contact_title {
+        display: none;
+    }
+
+    .mail-to-us-button {
+        font-size: 1rem;
+        margin-left: 75%;
+        margin-top: 25px;
+    }
+
+    .footer_content_text {
+        font-size: 0.8rem;
+    }
+
+    .footer_content_link {
+        font-size: 0.8rem;
+    }
+
+    .diversity_grid {
+        display: grid;
+        grid-template-columns: repeat(81, minmax(0.26rem, 0.8rem));
+        grid-template-rows: repeat(39, minmax(0.15rem, 0.4rem));
+    }
+
+    .achivements_grid img {
+        width: 75%;
+        height: 76%;
+    }
+
+    .achivements_grid {
+        display: grid;
+        grid-template-columns: repeat(16, minmax(1.4rem, 2rem));
+        grid-template-rows: repeat(23, minmax(1.2rem, 2rem) );
+    }
+
+    .achivements_grid .menna {
+        padding: 0;
+        margin: 0;
+        grid-column-start: 9;
+        grid-column-end: 17;
+        grid-row-start: 1;
+        grid-row-end: 9;
+    }
+
+    .achivements_grid .time {
+        padding: 0;
+        grid-column-start: 9;
+        grid-column-end: 17;
+        grid-row-start: 9;
+        grid-row-end: 21;
+    }
+
+    .contact {
+        padding-left: 6.4%;
+    }
+
+    .achivements {
+        padding-left: 5.3%;
+    }
+}
+
+@media (max-width: 413px) {
+    .logo {
+        font-size: 1.2rem;
+        margin: 51px 0 250px 0;
+        margin-left: 3.4%;
+        width: 30%;
+    }
+
+    .title {
+        font-size: 2.2rem;
+    }
+
+    .title-wrap {
+        margin-left: 4.3%;
+    }
+
+    .main_text {
+        margin-left: 4.5%;
+    }
+
+    .link_read_more {
+        margin-left: -31px;
+    }
+
+    .story_grid {
+        column-gap: 0.7rem;
+    }
+
+    .story {
+        padding-left: 2.3%;
+        padding-right: 2.3%;
+    }
+
+    .story_grid img {
+        width: 107%;
+    }
+
+    .vintage-wrapper-content-text {
+        font-size: 1rem;
+    }
+
+    .link_what_we_do {
+        margin-left: 55%;
+    }
+
+    .diversity_title {
+        font-size: 1.3rem;
+    }
+
+    .diversity-container {
+        padding-right: 2.3%;
+        padding-left: 2.3%;
+    }
+
+    .achivements_grid {
+        display: grid;
+        grid-template-columns: repeat(14, minmax(1.4rem, 2rem));
+        grid-template-rows: repeat(23, minmax(1.2rem, 2rem) );
+    }
+
+    .achivements_grid img {
+        width: 100%;
+        height: 76%;
+    }
+
+    .london_office_text, .dubai_office_text, .paris_office_text, .newyork_office_text {
+        font-size: 0.8rem;
+    }
+
+    .london_office_text, .dubai_office_text, .paris_office_text, .newyork_office_text {
+        font-size: 0.7rem;
+    }
+
+    .mail-to-us-button {
+        margin-left: 67%;
+    }
+
+    .footer_content_text {
+        font-size: 0.6rem;
+    }
+
+    .footer_content_link {
+        font-size: 0.6rem;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(5rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+}
+
+@media (max-width: 400px) {
+    .item {
+        font-size: 0.7rem;
+    }
+
+    .logo {
+        font-size: 1rem;
+        margin: 85px 0 150px 0;
+        margin-left: 5.4%;
+    }
+
+    .basket {
+        font-size: 0.8rem;
+    }
+
+    .tour {
+        margin-right: 7.4%;
+        width: 30%;
+        margin-top: 57px;
+    }
+
+    .title {
+        font-size: 2.2rem;
+    }
+
+    .main_text {
+        font-size: 1rem;
+        margin-top: 17px;
+        max-width: 75%;
+    }
+
+    .head_container {
+        display: inline-block;
+        margin-top: 90px;
+    }
+
+    .signature {
+        font-size: 1rem;
+        margin-left: 50%;
+    }
+
+    .background {
+        min-height: 950px;
+    }
+
+    .background2 {
+        min-height: 950px;
+    }
+
+    .story_title {
+        font-size: 1.4rem;
+        margin-bottom: 30px;
+    }
+
+    .story {
+        padding-left: 8.3%;
+        padding-right: 8.3%;
+        min-height: 1980px;
+    }
+
+    .story_grid {
+        display: inline-block;
+    }
+
+    .story_grid img {
+        width: 100%;
+    }
+
+    .distinct_title {
+        margin-bottom: 10px;
+    }
+
+    .passionate_title {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+
+    .world_title {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+
+    .distinct_text, .passionate_text, .world_text {
+        font-size: 0.7rem;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+
+    .link_read_more {
+        margin-left: -36px;
+    }
+
+    .collection_title {
+        font-size: 1.4rem;
+    }
+
+    .collection_item_wrapper h4 {
+        font-size: 1rem;
+    }
+
+    .line-decoration-collection-top {
+        top: 15%;
+    }
+
+    .line-decoration-collection-bottom {
+        top: 82%;
+    }
+
+    .vintage-wrapper-content-title {
+        font-size: 1.5rem;
+    }
+
+    .vintage-wrapper-content-text {
+        font-size: 0.9rem;
+    }
+
+    .link_what_we_do {
+        margin-left: 53%;
+    }
+
+    .vintage-wrapper-content {
+        padding-left: 55px;
+        width: 95%;
+    }
+
+    .vintage-wrapper-img {
+        width: 42%;
+    }
+
+    .diversity_title {
+        font-size: 1.2rem;
+    }
+
+    .diversity {
+        min-height: 1650px;
+        width: 100%;
+    }
+
+    .diversity-container {
+        padding-right: 7.3%;
+        padding-left: 7.3%;
+    }
+
+    .diversity_grid {
+        display: grid;
+        grid-template-columns: repeat(60, 0.4fr);
+        grid-template-rows: repeat(10, 0.4fr);
+        gap: 5px;
+    }
+
+    .diversity_grid .plate {
+        grid-column-start: 1;
+        grid-column-end: 61;
+        grid-row-start: 7;
+        grid-row-end: 8;
+    }
+
+    .diversity_grid .indian {
+        grid-column-start: 1;
+        grid-column-end: 36;
+        grid-row-start: 3;
+        grid-row-end: 7;
+    }
+
+    .diversity_grid .waiter {
+        grid-column-start: 1;
+        grid-column-end: 61;
+        grid-row-start: 1;
+        grid-row-end: 3;
+    }
+
+    .diversity_grid .party {
+        grid-column-start: 1;
+        grid-column-end: 30;
+        grid-row-start: 10;
+        grid-row-end: 11;
+    }
+
+    .diversity_grid .reception {
+        grid-column-start: 30;
+        grid-column-end: 61;
+        grid-row-start: 10;
+        grid-row-end: 11;
+    }
+
+    .diversity_grid .sommelier {
+        grid-column-start: 36;
+        grid-column-end: 61;
+        grid-row-start: 3;
+        grid-row-end: 5;
+    }
+
+    .diversity_grid .kitchen1 {
+        grid-column-start: 30;
+        grid-column-end: 61;
+        grid-row-start: 9;
+        grid-row-end: 10;
+    }
+
+    .diversity_grid .admin {
+        grid-column-start: 36;
+        grid-column-end: 61;
+        grid-row-start: 5;
+        grid-row-end: 7;
+    }
+
+    .diversity_grid .cook {
+        grid-column-start: 1;
+        grid-column-end: 61;
+        grid-row-start: 8;
+        grid-row-end: 9;
+    }
+
+    .diversity_grid .kitchen2 {
+        grid-column-start: 1;
+        grid-column-end: 30;
+        grid-row-start: 9;
+        grid-row-end: 10;
+    }
+
+    .line-decoration-diversity-top {
+        top: 12%;
+    }
+
+    .line-decoration-diversity-bottom {
+        top: 84%;
+    }
+
+    .link_work_with_us {
+        margin-left: -220%;
+    }
+
+    .achivements_grid img {
+        width: 100%;
+        height: 73%;
+    }
+
+    .achivements_grid {
+        display: grid;
+        grid-template-columns: repeat(14, minmax(1.3rem, 2rem));
+        grid-template-rows: repeat(23, minmax(1.2rem, 2rem) );
+    }
+
+    .achivements_title {
+        font-size: 1.3rem;
+        margin-bottom: 65px;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(5rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+        gap: 1rem;
+    }
+
+    .london_office_text, .dubai_office_text, .paris_office_text, .newyork_office_text {
+        font-size: 0.7rem;
+    }
+
+    .contact_title {
+        font-size: 1.4rem;
+        margin-bottom: 30px;
+    }
+
+    .contact {
+        padding-top: 75px;
+    }
+
+    .mail-to-us-button {
+        margin-left: 68%;
+    }
+
+    .footer_content_text {
+        font-size: 0.7rem;
+    }
+
+    .footer_content_link {
+        font-size: 0.7rem;
+    }
+}
+
+@media (max-width: 391px) {
+    .logo {
+        font-size: 1rem;
+        margin: 60px 0 150px 0;
+        margin-left: 6.4%;
+    }
+
+    .tour {
+        margin-right: 7.4%;
+        width: 30%;
+        margin-top: 60px;
+    }
+
+    .basket {
+        font-size: 0.7rem;
+    }
+
+    .title-wrap {
+        margin-left: 15.3%;
+    }
+
+    .main_text {
+        font-size: 1.3rem;
+        margin-top: 17px;
+        max-width: 70%;
+        margin-left: 15%;
+    }
+
+    .link_read_more {
+        margin-left: -37px;
+    }
+
+    .link_work_with_us {
+        margin-left: -156%;
+    }
+
+    .footer_content_text {
+        font-size: 0.6rem;
+    }
+
+    .footer_content_link {
+        font-size: 0.6rem;
+    }
+
+
+}
+
+@media (max-width: 350px) {
+    .links li {
+        margin-top: 85px;
+    }
+
+    .tour {
+        margin-right: 3.4%;
+        width: 33%;
+        margin-top: 85px;
+    }
+
+    .main_text {
+        font-size: 0.9rem;
+    }
+
+    .signature {
+        font-size: 0.9rem;
+    }
+
+    .title {
+        font-size: 2.1rem;
+    }
+
+    .distinct_title {
+        margin-bottom: 6px;
+    }
+
+    .passionate_title {
+        margin-top: 15px;
+        margin-bottom: 6px;
+        text-align: center;
+    }
+
+    .world_title {
+        margin-top: 15px;
+        margin-bottom: 6px;
+        text-align: center;
+    }
+
+    .link_read_more {
+        margin-left: -43px;
+    }
+
+    .story {
+        min-height: 1795px;
+    }
+
+    .collection_wrapper {
+        display: inline-block;
+        padding-left: 7%;
+        padding-right: 7%;
+    }
+
+    .collection_item_wrapper h4 {
+        margin-top: 210px;
+    }
+
+    .collection {
+        min-height: 2508px;
+    }
+
+    .link_view_more {
+        margin-left: -72%;
+    }
+
+    .vintage_title {
+        font-size: 1.3rem;
+    }
+
+    .vintage-wrapper-content {
+        padding-left: 40px;
+    }
+
+    .diversity_title {
+        font-size: 1.1rem;
+    }
+
+    .diversity-container {
+        padding-right: 6.3%;
+        padding-left: 6.3%;
+    }
+
+    .line-decoration-diversity-bottom {
+        top: 84%;
+    }
+
+    .link_work_with_us {
+        margin-left: -232%;
+    }
+
+    .diversity {
+        min-height: 1500px;
+    }
+
+    .achivements_title {
+        font-size: 1.2rem;
+    }
+
+    .achivements_grid {
+        display: grid;
+        grid-template-columns: repeat(14, minmax(1.2rem, 2rem));
+        grid-template-rows: repeat(23, minmax(1.2rem, 2rem) );
+    }
+
+    .achivements {
+        padding-left: 6.3%;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(4rem, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+        gap: 0.5rem;
+    }
+
+    .contact_title {
+        font-size: 1.3rem;
+        margin-bottom: 20px;
+    }
+
+    .contact_grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        gap: 1.5rem;
+    }
+
+    .contact_grid .london_office {
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+
+    .contact_grid .dubai_office {
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+
+    .contact_grid .paris_office {
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 2;
+        grid-row-end: 3;
+    }
+
+    .contact_grid .newyork_office {
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 2;
+        grid-row-end: 3;
+    }
+
+    .contact_grid .form {
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row-start: 3;
+        grid-row-end: 4;
+    }
+
+    .london_office_text, .dubai_office_text, .paris_office_text, .newyork_office_text {
+        font-size: 0.9rem;
+    }
+
+    .mail-to-us-button {
+        margin-left: 66%;
+        margin-top: 35px;
+    }
+
+    .mail_to_us {
+        font-size: 0.9rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
